@@ -1,0 +1,6 @@
+{
+    "name": "First Try",
+    "dockerComposeFile": "compose.yaml",
+    "service": "app",
+    "workspaceFolder": "/app"
+}
